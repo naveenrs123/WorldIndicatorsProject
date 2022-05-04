@@ -1,4 +1,4 @@
-# world-indicators-project
+# World Indicators Project
 
 This is a small personal project involving an analysis of two indicators found in the World Bank's World Indicators Data Set, available on Kaggle.com. This project utilises Python, specifically the NumPy, Pandas, Matplotlib and Folium libraries, to compare and analyze Arable Land (% of Total Land Area) and Urban Population (% of Total).
 
